@@ -1,0 +1,8 @@
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\bin\Debug\netstandard2.0\S7Library.deps.json
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\bin\Debug\netstandard2.0\S7Library.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\bin\Debug\netstandard2.0\S7Library.pdb
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\obj\Debug\netstandard2.0\S7Library.csproj.CoreCompileInputs.cache
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\obj\Debug\netstandard2.0\S7Library.AssemblyInfoInputs.cache
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\obj\Debug\netstandard2.0\S7Library.AssemblyInfo.cs
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\obj\Debug\netstandard2.0\S7Library.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\S7Library\obj\Debug\netstandard2.0\S7Library.pdb

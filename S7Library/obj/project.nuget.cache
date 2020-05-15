@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpWyoL3Py7OH13fvsueHfBEgNxPqeurHuWZ6IHdOU8Vw/8lAkw39WJ9rGGcGmi8HObQsYgXvzsfVonMtr0pO1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pongsakorn\\source\\repos\\Android-IOS-S7\\S7Library\\S7Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pongsakorn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pongsakorn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

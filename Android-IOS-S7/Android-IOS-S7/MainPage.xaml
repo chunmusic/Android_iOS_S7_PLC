@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="Android_IOS_S7.MainPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:S7App">
+
+    <StackLayout Padding="20,20,0,0">
+        <Label Text="IOS/Android Siemens S7" FontSize="Large" TextColor="Black"/>
+        <Label Text=" " FontSize="Large" TextColor="Black"/>
+        <Label Text="Read Data" FontSize="Medium" TextColor="Black" />
+
+
+        <StackLayout Grid.Row="1" Orientation="Horizontal" Spacing="0">
+            <Label x:Name="lbCo" 
+            Text="Status:  "
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource LargeLabel}"/>
+
+            <Label x:Name="lbcopywrite" 
+            Text="{Binding Db1Dbx40}"
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource SmallLabel}"/>
+
+        </StackLayout>
+
+
+
+        <StackLayout Grid.Row="1" Orientation="Horizontal" Spacing="0">
+            <Label x:Name="Temp" 
+            Text="Temperature:  "
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource LargeLabel}"/>
+
+            <Label x:Name="TempValue" 
+            Text="{Binding Db1Dbw0}"
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource SmallLabel}"/>
+
+        </StackLayout>
+
+
+        <StackLayout Grid.Row="1" Orientation="Horizontal" Spacing="0">
+            <Label x:Name="Humidity" 
+            Text="Humidity:  "
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource LargeLabel}"/>
+
+            <Label x:Name="HumidValue" 
+            Text="{Binding Db1Dbw2}"
+            TextColor="Black"
+            FontSize="Medium"
+            Style="{DynamicResource SmallLabel}"/>
+
+        </StackLayout>
+
+
+        <StackLayout Grid.Row="20" Orientation="Horizontal"  Spacing="20">
+
+            <Button Text="TURN OFF" Command="{Binding WriteDb1Dbx40Commandfalse}" />
+            <Button Text="TURN ON" Command="{Binding WriteDb1Dbx40Commandtrue}" />
+
+
+        </StackLayout>
+
+
+    </StackLayout>
+
+
+</ContentPage>

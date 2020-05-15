@@ -1,0 +1,17 @@
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\Android-IOS-S7.deps.json
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\Android-IOS-S7.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.csprojAssemblyReference.cache
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.AssemblyInfoInputs.cache
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.AssemblyInfo.cs
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\ref\Android-IOS-S7.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\Android-IOS-S7.pdb
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.csproj.CoreCompileInputs.cache
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\ref\Android-IOS-S7.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.pdb
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\S7Library.dll
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\bin\Debug\netstandard2.0\S7Library.pdb
+C:\Users\Pongsakorn\source\repos\Android-IOS-S7\Android-IOS-S7\Android-IOS-S7\obj\Debug\netstandard2.0\Android-IOS-S7.csproj.CopyComplete
